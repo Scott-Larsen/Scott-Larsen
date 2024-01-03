@@ -1,6 +1,6 @@
 ### Hi 👋, I’m Scott
 ##
-I’m a 🐍 Python developer at Remotely Video in Portland, OR.
+I’m a Full Stack Developer I at Asset-Map.
 ##
 - <a href="https://www.ScottLarsen.com">ScottLarsen.com</a>
 - <a href="https://www.linkedin.com/in/ScottRLarsen/">LinkedIn</a>
